@@ -1,0 +1,13 @@
+﻿ntp.day.ir
+194.146.239.1
+ntp.sisoog.com
+ir.pool.ntp.org
+time.windows.com
+0.ir.pool.ntp.org
+1.ir.pool.ntp.org
+2.ir.pool.ntp.org
+3.ir.pool.ntp.org
+0.asia.pool.ntp.org
+1.asia.pool.ntp.org
+2.asia.pool.ntp.org
+3.asia.pool.ntp.org
